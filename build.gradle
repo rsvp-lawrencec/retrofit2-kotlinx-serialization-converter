@@ -1,8 +1,8 @@
 buildscript {
   ext.versions = [
-    'kotlin': '1.4.10',
+    'kotlin': '1.4.30',
     'serialization': '1.0.0',
-    'retrofit': '2.6.4',
+    'retrofit': '2.8.1',
     'okhttp': '3.14.7',
     'junit': '4.13',
     'truth': '1.0.1',
