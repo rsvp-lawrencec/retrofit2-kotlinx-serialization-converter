@@ -27,6 +27,7 @@ sourceCompatibility = JavaVersion.VERSION_1_6
 
 repositories {
   mavenCentral()
+  maven { url 'https://jitpack.io' }
 }
 
 dependencies {
